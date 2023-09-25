@@ -1,5 +1,5 @@
 # THE HACKTIVISTS
-SIEM Trainings for the Professionals from the Professionals.
+Red team Training for the Professionals from the Professionals.
 
 ![hactivists logo-01](https://github.com/himanshuTaylor/thehacktivists/assets/25545279/71e631ee-8437-4e6f-803a-625be27eb33f).
 
@@ -7,7 +7,7 @@ Our Company **The Hacktivists™** ( Leading IT Security Services & Training Pro
 
 We have a large number of professional instructors who are specialized and experienced in various Information/Cyber Security domains. Our Instructors holds a wide range of accreditation like OSCP, OSEE, OSCE, eCXD, eMAPT, eWPTX, eWDP, CEH, CHFI, CISSP, CISM, and CISA.
 
-The Hacktivists™ is one of the most trusted and reliable training providers in information/cybersecurity, providing exceptional unmatched Hands-on practical training to individuals and corporates worldwide. Our goal is to train, mentor, and support your career in cybersecurity. 
+The Hacktivists™ is one of the most trusted and reliable training providers in information/cybersecurity, providing exceptional, unmatched Hands-on practical training to individuals and corporates worldwide. Our goal is to train, mentor, and support your career in cybersecurity. 
 
 We emphasize hands-on practical training, which gives our clients and candidates an edge to grow and advance professionally in their respective career(s).
 
